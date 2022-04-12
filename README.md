@@ -1,5 +1,6 @@
 # Python-Django-resort-Website
 Here i have made a website in Django which id fully dynamic.
+
 STEP 1: Install virtual environment and then create virtual environment.
 
 STEP 2: Install python and Django in virtual environment.
